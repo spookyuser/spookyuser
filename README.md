@@ -4,5 +4,3 @@ HI!
 - https://boondoggle.love
 
 Currently building: https://pelicart.com
-
-the boats have been burned
